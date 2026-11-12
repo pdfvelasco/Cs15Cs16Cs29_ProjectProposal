@@ -2,12 +2,12 @@
 
 
 ## Project Proposal Template:
-cvbbbc
+
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+### Section			   	      : Cesium
+### Group Members			    : GUTIERREZ, GRATELA, VELASCO
+### Date (Proposal Date)  : Nov 12, 2026
+
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
