@@ -49,10 +49,8 @@ This class inherits from the Character class, and it acts as the user’s way to
 
 
 - The target demographic would be composed of students of any age who are interested in studying Biology, Chemistry, and Physics, from the very basics all the way to the complex. The youngest of generations will also be catered for given the projects lowering the barrier of entry for studying these subjects as it is designed to be technologically easy to use and understand. Aside from the newest, it can also help those who do not learn through the traditional classroom/study setting by introducing them to an alternative way of engaging with knowledge. Overall, our demographic would be those drawn to discovering new ways of learning, and then synthesizing their knowledge for a better tomorrow.
+
  
-
-- The description is then followed by the class diagram, depicting clearly what was described.
-
 ![Class Diagram](https://lh3.googleusercontent.com/d/1LyIv-edkXH4uWzO8tnoGRB8TvOYI2guu)
 
 ### Goals:  The users would be able to learn and understand more about various topics across Biology, Chemistry, and Physics after using the application. The application would also provide interested people with an alternative engaging way to learn other than the traditional way of studying.
