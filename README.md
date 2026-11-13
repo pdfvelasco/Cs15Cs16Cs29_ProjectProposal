@@ -14,37 +14,37 @@
 
 
 - Character() -
-Attributes: name, level
+Attributes: name, level |
 Name would be predetermined here.
 Level will be set to zero at the start.
-Methods: level_up()
+Methods: level_up() |
 This will act as a template for other classes.
 
   NPC() -
-Attributes: name
+Attributes: name |
 Name would be predetermined here.
-Methods: talk()
+Methods: talk() |
 This class will only talk to the player, without doing anything else. It will also act as a template for other classes.
 
   Teacher(NPC, Character) -
-Attributes: name, level, subject
+Attributes: name, level, subject |
 Name and Level attributes would be inherited from NPC and Character classes respectively
 Subject is independently defined here
-Methods: talk(), level_up(), teach()
+Methods: talk(), level_up(), teach() |
 This class inherits from the Character and NPC classes, and it can either talk to the player normally, or teach the player either how to play the game or lessons related to their subject. The depth of the lesson depends on the level. After some time, it can also level up and give more information.
 
   Questioner(NPC, Character) -
-Attributes: name, level, subject
+Attributes: name, level, subject |
 Name and Level attributes would be inherited from NPC and Character classes respectively
 Subject is independently defined here
-Methods: talk(), level_up(), ask_question(), check_answer()
+Methods: talk(), level_up(), ask_question(), check_answer() |
 This class inherits from the Character and NPC classes, and it can either talk to the player normally, or ask the player questions about their subject. The difficulty of the questions depends on the level, and the questions come from a fixed list. After some time, it can also level up and give harder questions.
 
   Player(Character) -
-Attributes: name, level, xp
+Attributes: name, level, xp |
 Name and Level attributes would be inherited from the Character class.
 XP would be automatically set to zero.
-Methods: level_up(), interact(), answer(), use_hint()
+Methods: level_up(), interact(), answer(), use_hint() |
 This class inherits from the Character class, and it acts as the user’s way to interact with the other classes. It can answer questions and gain XP to level up. As its level increases, it also unlocks more hints to the questions.
 
 
@@ -52,8 +52,6 @@ This class inherits from the Character class, and it acts as the user’s way to
  
 
 - The description is then followed by the class diagram, depicting clearly what was described.
-
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
