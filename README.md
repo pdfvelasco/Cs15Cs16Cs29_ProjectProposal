@@ -3,7 +3,7 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: STUDYUP
 ### Section			   	      : Cesium
 ### Group Members			    : GUTIERREZ, GRATELA, VELASCO
 ### Date (Proposal Date)  : Nov 12, 2026
