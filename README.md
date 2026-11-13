@@ -53,7 +53,7 @@ This class inherits from the Character class, and it acts as the user’s way to
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+![Class Diagram]([https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png](https://drive.google.com/file/d/1LyIv-edkXH4uWzO8tnoGRB8TvOYI2guu/view?usp=sharing))
 
 ### Goals:  The users would be able to learn and understand more about various topics across Biology, Chemistry, and Physics after using the application. The application would also provide interested people with an alternative engaging way to learn other than the traditional way of studying.
 
